@@ -1,4 +1,4 @@
-# Titanic Dataset Survival Prediction
+# Mushroom Dataset Poisonous Prediction
 
 ### Link to notebook: [model.ipynb](https://github.com/bncodes19/ml-classification-neely/blob/main/model.ipynb)
 
