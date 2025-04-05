@@ -26,7 +26,7 @@ Three types of models are employed for predicting the poisonous of a mushroom:
 - Section 6: Final Thoughts and Insights
 
 ## Dataset 
-Titanic dataset
+Mushroom Dataset
 - We use the built-in dataset from UC Irvine Machine Learning Repository:
 <https://archive.ics.uci.edu/dataset/73/mushroom>
 
