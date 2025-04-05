@@ -1,6 +1,6 @@
 # Titanic Dataset Survival Prediction
 
-### Link to notebook: [model.ipynb](https://github.com/bncodes19/applied-ml-bneely/blob/main/lab03/ml03_neely.ipynb)
+### Link to notebook: [model.ipynb](https://github.com/bncodes19/ml-classification-neely/blob/main/model.ipynb)
 
 ## Overview
 In this lab, the Mushroom dataset from UC-Irvine Machine Learning Repository is analyzed.
